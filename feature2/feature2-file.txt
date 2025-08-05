@@ -1,0 +1,1 @@
+feature2-file.txt file is added in feature2 branch.
